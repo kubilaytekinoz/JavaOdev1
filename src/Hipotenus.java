@@ -19,8 +19,5 @@ public class Hipotenus {
         System.out.println("Üçgenin Alanı : " +ucgenAlan  + " cm^2");
 
 
-
-
-
     }
 }
