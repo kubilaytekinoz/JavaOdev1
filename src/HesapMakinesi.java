@@ -17,6 +17,7 @@ public class HesapMakinesi {
         System.out.print("1-Toplama\n2-Çıkarma\n3-Çarpma\n4-Bölme\nLütfen Seçiminizi Giriniz : ");
         select = inp.nextInt();
 
+        // Seçime göre işlemleri yaptırıyorum
         switch (select){
             case 1:
                 System.out.println("Toplam : " + (num1+num2));
