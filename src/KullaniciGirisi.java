@@ -9,7 +9,6 @@ public class KullaniciGirisi {
         username=inp.nextLine();
         System.out.print("Şifrenizi giriniz : ");
         password=inp.nextLine();
-
         // Kullanıcıdan gelen bilgileri kontrol edelim
         // username = patika password = java101 gibi düşünelim
 
