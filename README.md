@@ -1,2 +1,2 @@
 # Patika-Java-Pratikleri
-#Ödev 1 | Not Ortalaması Hesaplama Programı
+#Patika üzerinden aldığım derslerin uygulamaları
